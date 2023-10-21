@@ -1,6 +1,11 @@
 # SimpleHangmanGame
 Just a simple hangman game that i had to make during Level 4 1st Year at MCAST. This was actual;ly my first real project of any sort other than some early scuffed java code I made during secondary.
 
-Just clone the repository and run the Nicholas_Borg_4.1D.py for it to work.
+**Getting it to Work**
+-----------------------------
+Just clone the repository and run the Nicholas_Borg_4.1D.py for it to work. The entire thing is written in base python so no external libraries need to be installed
 
-![image](https://github.com/Abbentai/SimpleHangmanGame/assets/104551802/a046764c-78b9-4ce3-8ca2-31c3baf60fff)
+<p align="center">
+  <img src="https://github.com/Abbentai/SimpleHangmanGame/assets/104551802/6f031eda-cef3-4d22-b87e-61b89b721aca">
+</p>
+
